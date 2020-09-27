@@ -29,7 +29,7 @@ set formatoptions-=cro
 set clipboard=unnamedplus
 set cmdheight=2
 
-call plug#begin('~/.local/share/nvim/plugged')
+call plug#begin('~/.config/nvim/plugins')
 
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
